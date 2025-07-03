@@ -11,10 +11,10 @@ var games = [
     image: 'https://imgs.search.brave.com/BbDlcfCe2d3wfMpQqqRmExPyg0_qub0JIsypdQ4ZW8Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zLnNw/cnVua2lnYW1lLmNv/bS9pbWcvZ2FtZS1j/b3Zlci93YWNreS1m/bGlwLnBuZw'
   },
   {
-    id: 'eggycar',
-    title: 'Eggy Car',
-    url: 'https://assets.3kh0.net/eggycar/index.html',
-    image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
+    id: 'slope',
+    title: 'Slope',
+    url: 'https://azgames.io/game/slope/',
+    image: 'https://imgs.search.brave.com/-Pzr_zlTewHP987QqWADT38BWbz5-qpemP3YfYKgVNM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zbG9w/ZWdhbWUubG9sL2lt/Z3Mvc2xvcGUucG5n'
   }
 ]
 games.sort(function (a, b) {
