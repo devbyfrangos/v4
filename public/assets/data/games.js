@@ -7,7 +7,7 @@ var games = [
   {
     id: 'wackyflip',
     title: 'Wacky Flip',
-    url: 'https://curverush.com/wacky-flip',
+    url: 'https://game.azgame.io/wacky-flip/',
     image: 'https://imgs.search.brave.com/BbDlcfCe2d3wfMpQqqRmExPyg0_qub0JIsypdQ4ZW8Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zLnNw/cnVua2lnYW1lLmNv/bS9pbWcvZ2FtZS1j/b3Zlci93YWNreS1m/bGlwLnBuZw'
   },
   {
