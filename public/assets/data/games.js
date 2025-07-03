@@ -5,10 +5,10 @@ var games = [
     image: 'assets/images/add.png'
   },
   {
-    id: 'idlebreakout',
-    title: 'Idle Breakout',
-    url: 'https://assets.3kh0.net/idle-breakout/index.html/',
-    image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
+    id: 'wackyflip',
+    title: 'Wacky Flip',
+    url: 'https://curverush.com/wacky-flip',
+    image: 'https://imgs.search.brave.com/BbDlcfCe2d3wfMpQqqRmExPyg0_qub0JIsypdQ4ZW8Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zLnNw/cnVua2lnYW1lLmNv/bS9pbWcvZ2FtZS1j/b3Zlci93YWNreS1m/bGlwLnBuZw'
   },
   {
     id: 'eggycar',
